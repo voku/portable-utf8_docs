@@ -1,6 +1,6 @@
 {
   "name": "Portable UTF-8",
-  "description": "A high-performance interactive DX landing page and live play area for the voku/portable-utf8 PHP library.",
+  "description": "A production-ready interactive documentation site for the voku/portable-utf8 PHP library.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": []
 }
